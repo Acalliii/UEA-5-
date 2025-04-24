@@ -1,2 +1,1 @@
-console.log("aquí está la consola")
-window.alert("si, aqui esta mi consolaaaaa")
+console.log("Alguien en mi vida")
